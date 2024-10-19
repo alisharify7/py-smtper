@@ -8,7 +8,7 @@ Python client package for sending SMTP requests, with connection pooling and fal
 
 # How to install
 
-    pip install py-smtper
+    not implemented yet
 
 # how to use
 
