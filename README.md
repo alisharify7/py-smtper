@@ -1,19 +1,20 @@
 # py-smtper
-Python client package for sending SMTP requests, with connection pooling and fallback option.
+## 🚀 py-smtper is a Python SMTP client for sending SMTP requests, with connection pooling and fallback option.
+
 
 
 <img src="./doc/smtper.png">
 
 
 
-# How to install
+# 🚧 How to install
 
     not implemented yet
 
-# how to use
+# 📍 how to use
 
     from py_smtper import MailManager
-    mail_manager = MailManager(host=, port, user, pass, use_ssl, etc)
+    mail_manager = MailManager(host, port, user, pass, use_ssl, etc)
     mail_manager.send()
     mail_manager.send_bulk()
 
