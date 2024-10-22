@@ -11,12 +11,14 @@
 
     not implemented yet
 
+
 # 📍 how to use
 
+```python
     from py_smtper import MailManager
     mail_manager = MailManager(host, port, user, pass, use_ssl, etc)
-    mail_manager.send()
-    mail_manager.send_bulk()
-
+    mail_manager.send() # single send
+    mail_manager.send_bulk() # bulk send
+```
 
 TODO: add logger and test
