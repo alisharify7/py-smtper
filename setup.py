@@ -18,7 +18,7 @@ __license__ = "MIT"
 __short_description__ = "python client library for sending smtp request (emails) easily." 
 
 
-with open("./README.md", "r") as f:
+with open("./README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
