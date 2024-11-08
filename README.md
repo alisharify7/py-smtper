@@ -13,7 +13,7 @@ Py-Smtper is a python client package that help you send smtp request (emails) ea
 
 🔨 How to install
 ---
-    pip install p-smtper
+    pip install py-smtper
 
 
 📍 how to use
