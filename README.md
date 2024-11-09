@@ -1,6 +1,12 @@
 py-smtper
 ===============
 
+![PyPI Downloads](https://static.pepy.tech/badge/py-smtper)
+![PyPI Downloads](https://static.pepy.tech/badge/py-smtper/month)
+[![Latest version](https://img.shields.io/pypi/v/py-smtper)](https://pypi.python.org/pypi/py-smtper)
+[![Supported python versions](https://img.shields.io/pypi/pyversions/py-smtper)](https://pypi.python.org/pypi/flask_captcha2)
+
+
 🚀  py-smtper is a Python SMTP client for sending SMTP requests, with connection pooling and fallback option.
 ---
 
