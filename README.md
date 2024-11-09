@@ -2,7 +2,9 @@ py-smtper
 ===============
 
 <a href="https://www.coffeete.ir/alisharify7">Donate/Support [Optional]</a>
+
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/alisharify7/py-smtper"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alisharify7/py-smtper"> <img alt="GitHub repo Licence" src="https://img.shields.io/pypi/l/py-smtper">
+
 ![PyPI Downloads](https://static.pepy.tech/badge/py-smtper)
 ![PyPI Downloads](https://static.pepy.tech/badge/py-smtper/month)
 [![Latest version](https://img.shields.io/pypi/v/py-smtper)](https://pypi.python.org/pypi/py-smtper)
