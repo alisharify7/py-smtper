@@ -47,3 +47,7 @@ Py-Smtper is a python client package that help you send smtp request (emails) ea
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=alisharify7/py-smtper&type=Date)](https://star-history.com/#alisharify7/py-smtper&Date)
+
+
+
+# add change log
