@@ -6,6 +6,7 @@
  * Copyright (c) 2024 - ali sharifi
  * https://github.com/alisharify7/py-smtper
 """
+# TODO: replace with pyproject.toml file
 
 from setuptools import setup, find_packages
 
